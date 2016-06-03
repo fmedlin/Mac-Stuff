@@ -17,4 +17,4 @@ or:
 
     $ ioreg -p IOUSB -l -w 0
 
-[H/T](http://stackoverflow.com/questions/17058134/is-there-an-equivalent-of-lsusb-for-os-x)
+[Details](http://stackoverflow.com/questions/17058134/is-there-an-equivalent-of-lsusb-for-os-x)
