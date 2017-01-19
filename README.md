@@ -1,5 +1,11 @@
 # Mac-Stuff
 
+## Keyboard Shortcuts
+
+This is a really nice collection:
+
+[Dan Rodney's Mac Keyboard Shortcuts](https://www.danrodney.com/mac/)
+
 ## When `ping` returns 'cannot resolve, unknown host'
 
     $ sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.discoveryd.plist
